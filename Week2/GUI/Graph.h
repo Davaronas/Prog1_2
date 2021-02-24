@@ -1,4 +1,3 @@
-
 #ifndef GRAPH_GUARD
 #define GRAPH_GUARD
 
