@@ -1,7 +1,7 @@
 //sudo apt-get install libfltk1.1-dev
 //g++ main.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o main `fltk-config --ldflags --use-images`
 
-//g++ GUI/Graph.cpp GUI/Window.cpp GUI/GUI.cpp GUI/Simple_window.cpp ex01.cpp `fltk-config --ldflags --use-images7 -o a.out
+//g++ GUI/Graph.cpp GUI/Window.cpp GUI/GUI.cpp GUI/Simple_window.cpp ex01.cpp `fltk-config --ldflags --use-images` -o a.out
 
 //Alt Gr + 7   `
 
